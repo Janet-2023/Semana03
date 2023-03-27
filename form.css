@@ -1,0 +1,61 @@
+body{
+    height: 0px;
+    background-color: 0;
+  }
+  
+  form{
+  background-color: hwb(33 22% 3%);
+  border-radius: 7px;
+  width: 350px;
+  height: 510px;
+  margin: 100px auto;
+  padding-bottom: 100px;
+  padding-top: 5px;
+  padding-left: 40px;
+  
+  }
+  input{
+  background-color: white;
+    border-radius: 5px;
+    width: 305px;
+    height: 25px;
+    border-style: solid;
+    border-width: 1.1px;
+    border-color: white;
+    margin-top: 0px;
+    padding-left: -20px;
+    margin-bottom: 5px;
+  }
+  
+  h1{
+  color: blueviolet;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-top: 0px;
+  font-size: 31px;
+  }
+  
+  label{
+  color: #000;
+  font: 1em sans-serif;
+  font-size: 20px;
+  padding-top: 20px;
+  }
+  button{
+  background-color:black;
+  border-color: black;
+  color: white;
+  border-style: solid;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  height: 40px;
+  width: 90px;
+  margin-bottom: -20px;
+  font-size: 20px;
+  }
+  
+  a:hover {
+    background-color: blue;
+    font-size: 0px;
+    
+  }
